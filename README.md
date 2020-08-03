@@ -1,6 +1,20 @@
+# Microsoft Student Accelerator Web Application Project
+
+The main purpose of this project was to understand, build and deploy a CI/CD Microsoft AZURE Pipeline to run and maintain a simple RESTful API web-application
+
 [![Build Status](https://dev.azure.com/lancelancezhang/SPace%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/lancelancezhang/SPace%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=1&branchName=master)
 
-# Contributing
+## Deployment of Application
+
+
+
+## Acknowledgments
+
+* The MSA gave beautiful beginner tutorials in how to set up a Microsoft Azure Pipeline and how to link this with a React.js web-app
+* [Provided a lot of great APIs to use](https://github.com/public-apis/public-apis)
+* [Got me started with using RESTful APIs](https://pusher.com/tutorials/consume-restful-api-react?fbclid=IwAR3xI0x3p8FUUayORhAN7N07P59tOoBZWNBbL-HKbC5VXsZkiP5AiB9eKSU)
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -14,7 +28,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
