@@ -4,15 +4,23 @@ The main purpose of this project was to understand, build and deploy a CI/CD Mic
 
 [![Build Status](https://dev.azure.com/lancelancezhang/SPace%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/lancelancezhang/SPace%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=1&branchName=master)
 
+
 ## Deployment of Application
 
+Simple look at how the web-app displays and formats information from the API
+
+![TitlePage](https://github.com/lancelancezhang/msa-webapp/blob/master/image2.JPG)
+
+The API is a database of the youtuber TheReportOfTheWeek's weekly food reviews
+
+![Data](https://github.com/lancelancezhang/msa-webapp/blob/master/image1.JPG)
 
 
 ## Acknowledgments
 
 * The MSA gave beautiful beginner tutorials in how to set up a Microsoft Azure Pipeline and how to link this with a React.js web-app
 * [Provided a lot of great APIs to use](https://github.com/public-apis/public-apis)
-* [Got me started with using RESTful APIs](https://pusher.com/tutorials/consume-restful-api-react?fbclid=IwAR3xI0x3p8FUUayORhAN7N07P59tOoBZWNBbL-HKbC5VXsZkiP5AiB9eKSU)
+* [Helpful RESTful APIs Tips](https://pusher.com/tutorials/consume-restful-api-react?fbclid=IwAR3xI0x3p8FUUayORhAN7N07P59tOoBZWNBbL-HKbC5VXsZkiP5AiB9eKSU)
 
 ## Contributing
 
